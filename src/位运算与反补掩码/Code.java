@@ -1,15 +1,11 @@
-import 多态.People;
+package 位运算与反补掩码;
 
-public class Test {
-    public static void test() {
+public class Code {
+    public static void codeExample() {
         //三木运算经典套娃
         System.out.println(true?false:true?false:true);
         System.out.println(false?false:true?false:true);
         //取反，取的时候作为补码处理
         System.out.println(~4);
-    }
-
-    public static void main(String[] args) {
-        new People().polyExample();
     }
 }

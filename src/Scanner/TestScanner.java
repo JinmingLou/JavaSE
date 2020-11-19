@@ -1,3 +1,5 @@
+package Scanner;
+
 import java.util.Scanner;
 
 public class TestScanner {
@@ -8,7 +10,5 @@ public class TestScanner {
         //有nextLine, nextInt, ...
         String str = scanner.next();
         System.out.println(str);
-
-
     }
 }
