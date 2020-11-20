@@ -1,15 +1,8 @@
+import 内部类.InnerClassDemo;
 import 多态.People;
+import 接口.InterfaceExample;
 
 public class Test {
-    public static void test() {
-        //三木运算经典套娃
-        System.out.println(true?false:true?false:true);
-        System.out.println(false?false:true?false:true);
-        //取反，取的时候作为补码处理
-        System.out.println(~4);
-    }
 
-    public static void main(String[] args) {
-        new People().polyExample();
-    }
+
 }
