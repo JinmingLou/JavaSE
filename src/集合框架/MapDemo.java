@@ -48,7 +48,5 @@ public class MapDemo {
         for (Map.Entry<Integer, String> i : entries) {
             System.out.println(i.getKey() + " : " + i.getValue());
         }
-
-        Hashtable
     }
 }
