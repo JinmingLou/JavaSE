@@ -48,5 +48,11 @@ public class MapDemo {
         for (Map.Entry<Integer, String> i : entries) {
             System.out.println(i.getKey() + " : " + i.getValue());
         }
+
+        System.out.println("--------_______-------");
+        String[] string = {"1a", "2bb", "3ccc"};
+        System.out.println(string[0]);
+        System.out.println(string[1]);
+        System.out.println(string[2]);
     }
 }
