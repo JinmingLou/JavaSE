@@ -59,6 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -141,7 +142,7 @@
       <workItem from="1618245988550" duration="334000" />
       <workItem from="1618246333630" duration="3424000" />
       <workItem from="1619510740177" duration="1192000" />
-      <workItem from="1621476868375" duration="1019000" />
+      <workItem from="1621476868375" duration="1356000" />
     </task>
     <task id="LOCAL-00001" summary="2021.4.6">
       <created>1617642274675</created>
@@ -212,6 +213,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1621749722074" />
+    <state x="551" y="192" width="605" height="536" key="find.popup" timestamp="1621750065616">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="551" y="192" width="605" height="536" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1621750065616" />
     <state x="445" y="70" width="1176" height="679" key="new project wizard" timestamp="1618298130954">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
